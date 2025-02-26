@@ -81,7 +81,7 @@
             <p>Dear Sanjay,</p>
             <p>Wishing you an amazing birthday filled with joy, laughter, and wonderful memories! 🎈</p>
             <p>May all your dreams turn into reality and may success follow you wherever you go! 💫</p>
-            <p>Enjoy your special day! 🥳</p>
+            <p>Enjoy your special day! 🥳 ROCK ON</p>
         </div>
 
         <button onclick="playMusic()">Click for Birthday Song! 🎵</button>
