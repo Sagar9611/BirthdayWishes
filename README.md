@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Happy Birthday Solle! 🎉</title>
+    <title>Happy Birthday RAMUU! 🎉</title>
     <style>
         body {
             background: linear-gradient(45deg, #ff6b6b, #ffd93d);
@@ -75,10 +75,10 @@
         <div class="balloon" style="left: 70%; background: #ffff00;"></div>
         <div class="balloon" style="left: 90%; background: #ff00ff;"></div>
 
-        <h1>🎂 Happy Birthday Solle! 🎉</h1>
+        <h1>🎂 Happy Birthday RAMUU! 🎉</h1>
         
         <div class="message">
-            <p>SOLLE Boss,</p>
+            <p>Namma Preethiyaaa Raaamuuuu</p>
             <p>Wishing you an amazing birthday filled with joy, laughter, and wonderful memories! 🎈</p>
             <p>May all your dreams turn into reality and may success follow you wherever you go! 💫</p>
             <p>Enjoy your special day! 🥳 ROCK ON</p>
